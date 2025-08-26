@@ -1,10 +1,10 @@
 {
   "roots": [
-    "country_state_city_pro"
+    "state_city_pro"
   ],
   "packages": [
     {
-      "name": "country_state_city_pro",
+      "name": "state_city_pro",
       "version": "0.0.7",
       "dependencies": [
         "flutter"

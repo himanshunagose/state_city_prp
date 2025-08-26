@@ -146,7 +146,7 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "country_state_city_pro",
+      "name": "state_city_pro",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"

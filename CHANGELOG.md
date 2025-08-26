@@ -14,3 +14,6 @@ Code Optimized.
 
 ## 0.0.6
 Code formated and provide example.
+
+## 0.0.7
+Code formatted and provide example.

@@ -1,7 +1,7 @@
 name: state_city_pro
 description: A new Flutter package to get world's all of Country, State, and City.
 version: 0.0.7
-homepage: https://github.com/SujitSarkar/Country-State-City-Picker-Pro
+homepage: https://github.com/himanshunagose/state_city_prp
 
 environment:
 #  sdk: ">=2.12.0 <3.0.0"
