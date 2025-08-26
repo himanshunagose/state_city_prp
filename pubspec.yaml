@@ -1,6 +1,6 @@
 name: state_city_pro
 description: A new Flutter package to get world's all of Country, State, and City.
-version: 0.0.7
+version: 0.0.8
 homepage: https://github.com/himanshunagose/state_city_prp
 
 environment:
@@ -20,6 +20,3 @@ dev_dependencies:
 flutter:
   assets:
     - packages/country_state_city_pro/assets/ex_img/
-    - packages/country_state_city_pro/assets/country.json
-    - packages/country_state_city_pro/assets/state.json
-    - packages/country_state_city_pro/assets/city.json
