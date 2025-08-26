@@ -1,9 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
-import './model/city_model.dart';
-import './model/country_model.dart';
-import './model/state_model.dart';
+
 
 class CountryStateCityPicker extends StatefulWidget {
   final TextEditingController state;
